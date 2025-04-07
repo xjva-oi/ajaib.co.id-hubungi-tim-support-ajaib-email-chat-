@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /wp-admin/admin-ajax.php
+Disallow: /wp-admin/
+
+User-agent: SemrushBot-SA
+
+User-agent: Googlebot-Image
+
+Sitemap: https://ajaib.co.id/sitemap.xml
+Sitemap: https://ajaib.co.id/sitemap.rss
